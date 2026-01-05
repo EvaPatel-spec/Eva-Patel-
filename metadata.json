@@ -1,0 +1,8 @@
+{
+  "name": "Vericheck",
+  "description": "A high-tech fraud and misinformation detection suite. Verify text claims, analyze images/videos for manipulation, and detect AI-generated student submissions using advanced Gemini AI.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
